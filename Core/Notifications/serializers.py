@@ -27,3 +27,10 @@ class SenderSerializer(serializers.ModelSerializer):
             'email',
             'notifications',
         )
+
+    def validate_notifications(self, value):
+        if not value:
+            raise serializers.ValidationError(
+                "At least one notification is required."
+                )
+        return value
