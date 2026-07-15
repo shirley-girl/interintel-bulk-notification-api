@@ -45,7 +45,8 @@ interintel-bulk-notification-api/
 
 **POST**
 
-```http/api/notification/bulk/
+```http
+/api/notification/bulk/
 ```
 
 ### Sample Request
