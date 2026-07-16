@@ -92,6 +92,41 @@ The API validates:
 - Valid notification channels
 - Nested request data
 
+
+---
+
+## Screenshots
+
+### Models
+
+![Models](images\models.png)
+
+### Models Migration
+
+![Migrations]()
+
+### Successful API Request
+
+![Successful Request](images\postman_success.png)
+
+### Successful Response
+
+![Successful Response]( images\api-success_response.png )
+
+### Validation Tests
+
+**Invalid Email**
+
+![Invalid Email](images\invalid_email.png)
+
+**Empty Notification**
+
+![Empty Notification](images\Empty_notification.png)
+
+**Multiple Notifications**
+
+![Multiple Notifications](images\multiple notifications.png)
+
 ---
 
 ## Installation
