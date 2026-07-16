@@ -111,7 +111,7 @@ The API validates:
 
 ### Successful Response
 
-![Successful Response]( images/api-success_response.png )
+![Successful Response](images\api_success_response.png)
 
 ### Validation Tests
 
@@ -125,7 +125,7 @@ The API validates:
 
 **Multiple Notifications**
 
-![Multiple Notifications](images/multiple notifications.png)
+![Multiple Notifications](images\multiple_notifications.png)
 
 ---
 
