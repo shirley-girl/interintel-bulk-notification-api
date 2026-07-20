@@ -1,2 +1,3 @@
 Core/Core/__pycache__
 env
+Core/db.sqlite3
